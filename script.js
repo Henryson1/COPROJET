@@ -1,4 +1,4 @@
-let openingDate = new Date("mar 10, 2024 12:00:00").getTime();
+let openingDate = new Date("JUN 14, 2024 12:00:00").getTime();
 
 let counter = setInterval(tick, 1000);
 
